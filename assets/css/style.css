@@ -1,13 +1,11 @@
+/* Below is specs for entire page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
-
+/* Below is header specs */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +22,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Below is nav bar specs */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,6 +40,11 @@ body {
     margin-left: 25px;
 }
 
+/* Below is body & paragraph specs */
+body {
+    background-color: #d9dcd6;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* Below is specs for main background photo */
 .figure {
     height: 800px;
     width: 100%;
@@ -59,6 +64,7 @@ p {
     background-position: center;
 }
 
+/* Below is main content image placement */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,6 +75,7 @@ p {
     margin-left: 25px;
 }
 
+/* Below is main content section specs */
 .main {
     width: 75%;
     display: inline-block;
@@ -93,6 +100,7 @@ p {
     font-size: 36px;
 }
 
+/* Below is additional side information specs */
 .aside {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +128,7 @@ p {
     max-width: 150px;
 }
 
+/* Below is footer specs */
 .footer {
     padding: 30px;
     clear: both;
