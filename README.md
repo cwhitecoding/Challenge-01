@@ -8,14 +8,11 @@ N/A
 
 ## Usage
 To use this site, a user can use the navigation bar along the top of the page and click on the tabs created that will bring you to the specified information. The nav bar along the top looks like this:
-```md
 ![Screenshot of Nav Bar along top of site](assets/images/nav-bar.png)
-```
+
 
 Clicking on any nav. bar links will bring the user to the content provided. Another way a user can reach the content is by scrolling down. Below is the specified content the user is able to find:
-```md
 ![Screenshot of main content information](assets/images/content-shot.png)
-```
 Added information and facts are located to the right of the main content as seen in the above photo.
 
 ## Credits
