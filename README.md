@@ -1,4 +1,4 @@
-# <Challenge-01>
+# SEO-and-Semantics
 
 ## Deployed Application Link
 - https://cwhitecoding.github.io/Challenge-01/
